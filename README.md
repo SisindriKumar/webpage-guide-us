@@ -1,1 +1,1 @@
-this is my first code using html,css,js
+this is my first landing page using html,css
